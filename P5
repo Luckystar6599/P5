@@ -432,6 +432,21 @@ Oh!k,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 CHC高清电影蓝光,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC家庭影院蓝光,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC动作电影蓝光,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8CHC动作电影蓝光,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
+
+香港,#genre#
+TVB J2台,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+TVB明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+TVB新聞台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+TVB財經台,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+
+81TVB翡翠台,http://cdn.hkdtmb.com/hls/81/index.m3u8
+82TVB J2台,http://cdn.hkdtmb.com/hls/82/index.m3u8
+83TVB新聞台,http://cdn.hkdtmb.com/hls/83/index.m3u8
+84TVB明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8
+85TVB財經台,http://cdn.hkdtmb.com/hls/85/index.m3u8
+
+
 翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8
@@ -450,6 +465,9 @@ TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 ﻿香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 亚洲旅游,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
 亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+
+
+台湾,#genre#
 華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 华视教育,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 华视新闻,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
@@ -532,7 +550,7 @@ CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 奥运搏击频道,http://59.45.88.18:1001/grtn.php?/migu/713599117
 
 
-
+中国,#genre#
 CCTV-1蓝光,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227641/index.m3u8
 CCTV-1蓝光,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227644/index.m3u8
 CCTV-2蓝光,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227427/index.m3u8
